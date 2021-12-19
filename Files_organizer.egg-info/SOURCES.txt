@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+Files_organizer.egg-info/PKG-INFO
+Files_organizer.egg-info/SOURCES.txt
+Files_organizer.egg-info/dependency_links.txt
+Files_organizer.egg-info/top_level.txt
+file_org/__init__.py
+file_org/core.py
+file_org/helpers.py
+file_org/read_files.py
